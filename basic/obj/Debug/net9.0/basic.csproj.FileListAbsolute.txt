@@ -1,0 +1,14 @@
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\bin\Debug\net9.0\basic.exe
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\bin\Debug\net9.0\basic.deps.json
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\bin\Debug\net9.0\basic.runtimeconfig.json
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\bin\Debug\net9.0\basic.dll
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\bin\Debug\net9.0\basic.pdb
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\obj\Debug\net9.0\basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\obj\Debug\net9.0\basic.AssemblyInfoInputs.cache
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\obj\Debug\net9.0\basic.AssemblyInfo.cs
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\obj\Debug\net9.0\basic.csproj.CoreCompileInputs.cache
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\obj\Debug\net9.0\basic.dll
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\obj\Debug\net9.0\refint\basic.dll
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\obj\Debug\net9.0\basic.pdb
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\obj\Debug\net9.0\basic.genruntimeconfig.cache
+C:\Users\Gregorio Gayle\Desktop\projects\student_lecture\basic\basic\obj\Debug\net9.0\ref\basic.dll
